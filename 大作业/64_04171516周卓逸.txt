@@ -1,0 +1,26 @@
+理论60实验40
+实验40=考勤30+实验30+大作业40
+
+ftp://172.16.4.135
+下载：down
+上传: up  密码无
+大作业前端框架Bootstrap 
+新建文件上传大作业文件夹
+文件名 题号_学号姓名.txt
+www.oschina.net
+www.github.com
+
+jetty
+jboss/weblogic/Tengine
+
+vmware workstation
+virtualbox
+
+
+www.runoob.com/
+3周 html javascript
+实验报告文件名
+0121101罗某实验1.doc
+代码+运行结果截图
+
+
